@@ -1,5 +1,5 @@
 id=8064
-Wet Field Maple Sapling Cutting
+湿地枫树苗切割Wet Field Maple Sapling Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

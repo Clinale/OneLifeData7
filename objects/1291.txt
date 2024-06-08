@@ -1,5 +1,5 @@
 id=1291
-Stack of Wheat Tortillas
+干涸的北方梯度泉眼Stack of Wheat Tortillas
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

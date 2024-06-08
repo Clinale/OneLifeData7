@@ -1,5 +1,5 @@
 id=8160
-Stone Wall with Window and Garland
+带花环的带窗石墙Windowed Stone Wall with Garland
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

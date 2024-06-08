@@ -1,5 +1,5 @@
 id=4638
-Copper Ingot in Wooden Tongs #just cooled
+刚刚冷却的木钳子中的铜锭Copper Ingot in Wooden Tongs #just cooled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

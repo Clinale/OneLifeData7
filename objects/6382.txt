@@ -1,5 +1,5 @@
 id=6382
-Leprechaun Chance
+小妖精机会Leprechaun Chance
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

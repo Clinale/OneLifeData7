@@ -1,5 +1,5 @@
 id=6884
-Blowpipe With Hot Glass Tube
+带热玻璃管的吹风管Blowpipe With Hot Glass Tube
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

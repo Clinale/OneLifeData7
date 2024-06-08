@@ -1,5 +1,5 @@
 id=4504
-Secure Fence
+安全围栏Secure Fence
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

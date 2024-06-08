@@ -1,5 +1,5 @@
 id=14798
-Granite Wall with Big Stack of Boards#just removed
+刚刚拆除的花岗岩墙和一大堆木板Granite Wall with Big Stack of Boards#just removed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

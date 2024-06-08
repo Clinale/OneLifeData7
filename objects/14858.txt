@@ -1,5 +1,5 @@
 id=14858
-Ancient Sandstone Half Wall With Boards
+古代砂岩板墙Ancient Sandstone Half Wall With Boards
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

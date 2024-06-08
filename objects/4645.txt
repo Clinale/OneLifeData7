@@ -1,5 +1,5 @@
 id=4645
-Cold Copper Bloom on Flat Rock
+冷铜在平坦的岩石上绽放Cold Copper Bloom on Flat Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

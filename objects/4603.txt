@@ -1,5 +1,5 @@
 id=4603
-Swarm of Angry Bees#hive
+愤怒的蜜蜂群Swarm of Angry Bees#hive
 containable=0
 containSize=1,vertSlotRot=0.250000
 permanent=1,minPickupAge=3

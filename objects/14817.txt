@@ -1,5 +1,5 @@
 id=14817
-Ancient Sandstone Wall with Shelf# +noBackAccess +useOnContained
+古砂岩墙，带货架Ancient Sandstone Wall with Shelf# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

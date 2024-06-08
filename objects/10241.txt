@@ -1,5 +1,5 @@
 id=10241
-Hot Iron Griddle #wooden tongs
+热铁锅Hot Iron Griddle #wooden tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

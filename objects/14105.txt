@@ -1,5 +1,5 @@
 id=14105
-Hot Pot#boiled over
+火锅Hot Pot#boiled over
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

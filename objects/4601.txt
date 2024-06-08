@@ -1,5 +1,5 @@
 id=4601
-Fallen Hive
+堕落的蜂巢Fallen Hive
 containable=0
 containSize=1,vertSlotRot=0.250000
 permanent=0,minPickupAge=3

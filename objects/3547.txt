@@ -1,5 +1,5 @@
 id=3547
-Indigo Bowler Hat with Yellow Rose
+靛蓝圆顶硬礼帽配黄玫瑰Indigo Bowler Hat with Yellow Rose
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

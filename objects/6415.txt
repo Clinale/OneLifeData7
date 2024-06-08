@@ -1,5 +1,5 @@
 id=6415
-Clothing Wheel#complete
+服装轮Clothing Wheel#complete
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

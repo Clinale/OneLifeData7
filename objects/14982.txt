@@ -1,5 +1,5 @@
 id=14982
-Rooting Bald Cypress Tree Cutting
+柏树扦插生根Rooting Bald Cypress Tree Cutting
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

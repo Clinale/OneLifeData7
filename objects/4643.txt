@@ -1,5 +1,5 @@
 id=4643
-Cold Copper Bloom in Wooden Tongs
+木通冷铜花Cold Copper Bloom in Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

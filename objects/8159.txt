@@ -1,5 +1,5 @@
 id=8159
-Ancient Stone Wall with Window and Garland
+有花环的有窗的古老石墙Windowed Ancient Stone Wall with Garland
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

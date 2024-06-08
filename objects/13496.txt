@@ -1,5 +1,5 @@
 id=13496
-Bowl with Bauxite Ore
+装有铝土矿的碗Bowl with Bauxite Ore
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

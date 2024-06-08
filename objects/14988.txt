@@ -1,5 +1,5 @@
 id=14988
-Rooting Willow Tree Cutting
+柳树扦插生根Rooting Willow Tree Cutting
 containable=1
 containSize=1.000000,vertSlotRot=-0.750000
 permanent=0,minPickupAge=3

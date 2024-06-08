@@ -1,5 +1,5 @@
 id=4640
-Hot Copper Bloom
+热铜坯料Hot Copper Bloom
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

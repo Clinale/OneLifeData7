@@ -1,5 +1,5 @@
 id=4642
-Hot Copper Bloom in Wooden Tongs
+热铜在木制钳子中绽放Hot Copper Bloom in Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

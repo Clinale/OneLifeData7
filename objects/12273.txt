@@ -1,5 +1,5 @@
 id=12273
-Brick Wall with Window
+带窗的砖墙Windowed Brick Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

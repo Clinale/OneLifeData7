@@ -1,5 +1,5 @@
 id=4321
-Ground Pepper Bottle with Funnel# inserted
+磨碎的胡椒瓶，插入漏斗Ground Pepper Bottle with Funnel# inserted
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

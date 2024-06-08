@@ -1,5 +1,5 @@
 id=4637
-Hot Copper Ingot in Wooden Tongs
+木制钳子中的热铜锭Hot Copper Ingot in Wooden Tongs
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

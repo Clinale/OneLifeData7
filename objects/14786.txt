@@ -1,5 +1,5 @@
 id=14786
-Dark Wooden Wall with Big Stack of Boards#h just removed
+深色木墙，有一大堆刚刚拆除的木板Dark Wooden Wall with Big Stack of Boards#h just removed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

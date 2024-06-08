@@ -1,5 +1,5 @@
 id=6844
-Stack of Wooden Disks
+木盘堆叠Stack of Wooden Disks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

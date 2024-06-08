@@ -1,5 +1,5 @@
 id=3509
-Red Top Hat with Pink Rose
+红顶帽子与粉红玫瑰Red Top Hat with Pink Rose
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

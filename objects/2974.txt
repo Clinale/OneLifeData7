@@ -1,5 +1,5 @@
 id=2974
-(outdated) Primitive Fence Gate Ready For Construction
+可施工的原始栅栏门Primitive Fence Gate Ready For Construction
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

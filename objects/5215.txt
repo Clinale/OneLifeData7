@@ -1,5 +1,5 @@
 id=5215
-Iron Griddle on Flat Rock
+平坦岩石上的铁网格Iron Griddle on Flat Rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

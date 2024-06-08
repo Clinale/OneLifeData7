@@ -1,5 +1,5 @@
 id=14847
-Steel Adze#justRemoved
+刚刚卸下的钢锛Steel Adze#justRemoved
 containable=1
 containSize=1.900000,vertSlotRot=-0.370000
 permanent=0,minPickupAge=3

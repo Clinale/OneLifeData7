@@ -1,5 +1,5 @@
 id=2474
-Live Nosaj with Endstone#appear
+Live Nosaj with EndstoneLive Nosaj with Endstone#appear
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

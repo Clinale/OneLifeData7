@@ -1,5 +1,5 @@
 id=14815
-Ancient Sandstone Wall with Boards
+古代砂岩板墙Ancient Sandstone Wall with Boards
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

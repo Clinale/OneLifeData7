@@ -1,5 +1,5 @@
 id=8837
-Dry Planted Beets
+干种植甜菜Dry Planted Beets
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

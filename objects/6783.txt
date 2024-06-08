@@ -1,5 +1,5 @@
 id=6783
-Fishing Pot#in water ready
+准备好水中的钓鱼锅Fishing Pot#in water ready
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

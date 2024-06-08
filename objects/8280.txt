@@ -1,5 +1,5 @@
 id=8280
-Perhaps Turkey Hit
+也许是土耳其袭击Perhaps Turkey Hit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

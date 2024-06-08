@@ -1,5 +1,5 @@
 id=1893
-Bowl of Cinnabar
+朱砂碗Bowl of Cinnabar
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

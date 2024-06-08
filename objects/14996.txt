@@ -1,5 +1,5 @@
 id=14996
-Perhaps sprayed Willow Sapling Cutting
+也许是喷柳柳扦插Perhaps sprayed Willow Sapling Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

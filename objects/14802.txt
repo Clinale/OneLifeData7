@@ -1,5 +1,5 @@
 id=14802
-Granite Wall with Double Shelf# +noBackAccess +useOnContained
+花岗岩墙，带双搁板Granite Wall with Double Shelf# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

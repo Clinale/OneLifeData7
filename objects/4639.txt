@@ -1,5 +1,5 @@
 id=4639
-Native Copper in Wooden Tongs
+木通中的原生铜Native Copper in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

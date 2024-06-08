@@ -1,5 +1,5 @@
 id=7834
-Fish Leftovers on Flat Rock #trout
+平石上剩下的鱼Fish Leftovers on Flat Rock #trout
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

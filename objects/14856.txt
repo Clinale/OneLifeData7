@@ -1,5 +1,5 @@
 id=14856
-Half Sandstone Wall with Boards
+半砂岩板墙Half Sandstone Wall with Boards
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

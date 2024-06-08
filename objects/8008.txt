@@ -1,5 +1,5 @@
 id=8008
-Ancient Stone Wall with Window
+带窗的古石墙Windowed Ancient Stone Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

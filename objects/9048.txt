@@ -1,5 +1,5 @@
 id=9048
-Shelter with Kindling
+带引火物的避难所Shelter with Kindling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
